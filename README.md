@@ -534,10 +534,26 @@ Choose a license appropriate for your project before publishing the repository. 
 
 ## 👨‍💻 Author
 
-**Your Name**
+**Aishwary Bajpai**
 
 Built as a hands-on project exploring LangChain, LLM integration, Python business logic, and interactive application development.
 
 ---
 
 **Shipment Exception Desk — Turning shipment exception reports into structured, explainable decisions.**
+
+
+## 🎥 Project Demo
+
+Watch the Shipment Exception Desk in action, demonstrating all four test cases and the Daily Triage Summary.
+
+**The demo covers:**
+
+* 📦 Mild delay — automatic resolution
+* 🚚 High-value loss — escalation for human review
+* 📦 Minor damage — compensation calculation
+* 📊 Daily Triage Summary — aggregate compensation and escalation rate
+
+### Watch the Demo
+
+[▶️ Watch Shipment Exception Desk Demo](./assets/shipment-exception-demo.mp4)
