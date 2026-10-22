@@ -556,4 +556,4 @@ Watch the Shipment Exception Desk in action, demonstrating all four test cases a
 
 ### Watch the Demo
 
-[▶️ Watch Shipment Exception Desk Demo](./assets/shipment-exception-demo.mp4)
+[▶️ Watch Shipment Exception Desk Demo](https://youtu.be/wE1yufUALlg)
